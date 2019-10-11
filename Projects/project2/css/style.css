@@ -1,0 +1,62 @@
+
+body { font-family: Courier, monospace; }
+
+nav {
+	overflow: hidden;
+	background-color: #333;
+	
+}
+
+a.nav {
+	float: left;color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+a.nav:hover{
+  background-color: #ddd;
+  color: black;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+h1 { 
+	font-family: 'Source Sans Pro', sans-serif;
+	color: navy;
+	padding: 50px 10px 5px 10px;
+	font-size: 3em;
+}
+
+img.a {
+            display: block;  
+			width:50%;
+			height:50%; 
+			margin-left:auto; 
+			margin-right:auto;
+        }
+		
+img.b {
+            display: block;  
+			width:50%;
+			height:50%; 
+			margin-left:auto; 
+			margin-right:auto;
+			border-radius: 50%;
+        }
+
+span {
+	color:cyan;
+	font-weight: 400;
+	font-style: italic;
+}
+
+p {
+	font-family: 'Unica One', cursive;
+	font-size: 1.5em;
+}
